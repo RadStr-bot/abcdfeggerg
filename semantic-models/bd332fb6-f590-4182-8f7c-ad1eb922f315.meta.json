@@ -1,0 +1,14 @@
+{
+  "iri": "28fbc5fd-8f61-48b7-9dd1-ad2bcb19816b",
+  "projectIri": "bd332fb6-f590-4182-8f7c-ad1eb922f315",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-04-25T09:35:49.367Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
