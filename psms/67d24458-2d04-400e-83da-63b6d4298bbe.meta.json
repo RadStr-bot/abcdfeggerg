@@ -1,0 +1,17 @@
+{
+  "iri": "99adbb33-e1ce-4ff7-a1b7-53aa52e98dd4",
+  "projectIri": "67d24458-2d04-400e-83da-63b6d4298bbe",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": null,
+    "description": null
+  },
+  "metadata": {
+    "creationDate": "2026-04-25T09:37:50.070Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
